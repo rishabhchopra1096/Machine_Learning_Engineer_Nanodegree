@@ -30,8 +30,7 @@ Projects for my Udacity Machine Learning Engineer Nanodegree
 
 ### Stage 4: Reinforcement Learning 
 #### Project: Train a SmartCab to Drive
-[View Code Directory]  (https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P4_Train_a_Smartcab_to_Drive/smartcab_submission/
-report.html)  
+[View Code Directory](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P4_Train_a_Smartcab_to_Drive/smartcab_submission)  
 [View Review](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P4_Train_a_Smartcab_to_Drive/Train_a_Smartcab_Review.pdf
 )    
 [.ipynb file](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P4_Train_a_Smartcab_to_Drive/smartcab_submission/smartcab.ipynb

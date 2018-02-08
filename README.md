@@ -1,4 +1,4 @@
-# [Machine_Learning_Engineer_Nanodegree](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+# [Machine Learning Engineer Nanodegree](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 Projects for my Udacity Machine Learning Engineer Nanodegree
 
 ### Stage 1: Machine Learning Foundations 

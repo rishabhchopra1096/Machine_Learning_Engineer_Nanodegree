@@ -19,7 +19,7 @@ Projects for my Udacity Machine Learning Engineer Nanodegree
 [.ipynb file](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P2_Finding_Donors_for_CharityML/finding_donors_submission/finding_donors.ipynb
 )        
 
-### Stage 2: Unsupervised Learning 
+### Stage 3: Unsupervised Learning 
 #### Project: Creating Customer Segments
 [View Project](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/P3_Creating_Customer_Segments/customer_segments_submission/report.html
 )    
@@ -58,4 +58,4 @@ report.html)
 )  
    
 
-![Udacity Intro to Programming Nanodegree Certificate](https://rishabhchopra1096.github.io/Introduction_To_Programming_Nanodegree_Projects/nd009-rishabh-chopra-certificate.png)
+![Udacity Intro to Programming Nanodegree Certificate](https://rishabhchopra1096.github.io/Machine_Learning_Engineer_Nanodegree/nd009-rishabh-chopra-certificate.png)
